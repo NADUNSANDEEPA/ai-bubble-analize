@@ -6,10 +6,10 @@ A company-level financial dataset comparing the dot-com boom (1995–2002) again
  
 `dotcom_vs_ai_company_financial_comparison.xlsx` contains four sheets:
  
-- **Summary** — period definitions, top-10 company lists, aggregate tables, and comparison charts
-- **DotCom_Data** — company-by-company observations, 1995–2002
-- **AI_Data** — company-by-company observations, 2022–2025
-- **Methodology** — definitions, limitations, and source references
+- **Summary** - period definitions, top-10 company lists, aggregate tables, and comparison charts
+- **DotCom_Data** - company-by-company observations, 1995–2002
+- **AI_Data** - company-by-company observations, 2022–2025
+- **Methodology** - definitions, limitations, and source references
 ## Time periods
  
 | Cycle | Range | Notes |
